@@ -1,0 +1,42 @@
+Madrid
+   Vardas         Ivarciai    Ugis
+1) Bale           17          1.87
+2) Zinedine       12          1.87
+3) Cristiano      27          1.33
+4) Kylian         17          1.82
+Barcelona
+   Vardas         Ivarciai    Ugis
+1) Messi          20          1.69
+2) Luis           7           1.8
+3) Pique          0           1.9
+4) Leon           3           1.66
+United
+   Vardas         Ivarciai    Ugis
+1) Pogba          11          1.9
+2) Romelu         20          1.87
+3) David          0           1.9
+4) Jessie         9           1.79
+5) Juan           5           1.42
+Bangputys
+   Vardas         Ivarciai    Ugis
+1) Kazachas       0           1.94
+2) Kendrickas     20          1.95
+3) Jonas          6           1.67
+4) Arnas          7           1.63
+Liverpool
+   Vardas         Ivarciai    Ugis
+1) Sadio          20          1.8
+2) Firminio       20          1.93
+3) Djik           20          1.9
+4) Allison        20          1.91
+5) Leon           20          1.67
+************Strukturos duomenys***************
+Nr.    Ivarciai    Kiekis
+ 1)       6          1
+ 2)       7          2
+ 3)       9          1
+ 4)       11         1
+ 5)       12         1
+ 6)       17         1
+ 7)       20         5
+ 8)       27         1

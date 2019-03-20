@@ -1,0 +1,28 @@
+Komandos:
+Real Madrid
+Bale 1 1.87
+Zinedine 1 1.87
+Cristiano 1 1.33
+Kylian 1 1.82
+Barcelona
+Messi 1 1.69
+Luis 1 1.80
+Pique 1 1.90
+Leon 1 1.66
+United
+Pogba 1 1.90
+Romelu 1 1.87
+David 1 1.90
+Jessie 1 1.79
+Juan 1 1.42
+Bangputys
+Gediminas 1 1.94
+Mindaugas 1 1.95
+Jonas 1 1.67
+Arnas 1 1.63
+Liverpool
+Sadio 1 1.80
+Firminio 1 1.93
+Djik 1 1.90
+Allison 1 1.91
+Leon 1 1.67

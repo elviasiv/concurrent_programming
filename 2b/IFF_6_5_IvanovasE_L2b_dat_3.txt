@@ -1,0 +1,27 @@
+Madrid
+Bale 17 1.87
+Zinedine 12 1.87
+Cristiano 27 1.33
+Kylian 17 1.82
+Barcelona
+Messi 20 1.69
+Luis 7 1.80
+Pique 0 1.90
+Leon 3 1.66
+United
+Pogba 11 1.90
+Romelu 20 1.87
+David 0 1.90
+Jessie 9 1.79
+Juan 5 1.42
+Bangputys
+Kazachas 0 1.94
+Kendrickas 20 1.95
+Jonas 6 1.67
+Arnas 7 1.63
+Liverpool
+Sadio 20 1.80
+Firminio 20 1.93
+Djik 20 1.90
+Allison 20 1.91
+Leon 20 1.67

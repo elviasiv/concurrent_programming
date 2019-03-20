@@ -1,0 +1,28 @@
+Komandos:
+Real Madrid
+Bale 200 1.87
+Zinedine 201 1.87
+Cristiano 202 1.33
+Kylian 203 1.82
+Barcelona
+Messi 204 1.69
+Luis 204 1.80
+Pique 205 1.90
+Leon 205 1.66
+United
+Pogba 206 1.90
+Romelu 204 1.87
+David 205 1.90
+Jessie 205 1.79
+Juan 206 1.42
+Bangputys
+Gediminas 202 1.94
+Mindaugas 200 1.95
+Jonas 201 1.67
+Arnas 203 1.63
+Liverpool
+Sadio 200 1.80
+Firminio 200 1.93
+Djik 200 1.90
+Allison 200 1.91
+Leon 200 1.67
